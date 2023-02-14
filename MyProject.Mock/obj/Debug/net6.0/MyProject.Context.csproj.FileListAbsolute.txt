@@ -1,0 +1,17 @@
+E:\WebAPISariMiller\MyProject.Mock\bin\Debug\net6.0\MyProject.Context.deps.json
+E:\WebAPISariMiller\MyProject.Mock\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+E:\WebAPISariMiller\MyProject.Mock\bin\Debug\net6.0\MyProject.Context.dll
+E:\WebAPISariMiller\MyProject.Mock\bin\Debug\net6.0\MyProject.Context.pdb
+E:\WebAPISariMiller\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+E:\WebAPISariMiller\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.dll
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Context.dll
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.pdb
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+E:\WebAPISariMiller\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Context.dll

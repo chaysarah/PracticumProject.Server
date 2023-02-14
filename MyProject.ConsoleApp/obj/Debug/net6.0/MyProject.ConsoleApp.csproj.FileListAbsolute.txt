@@ -1,0 +1,15 @@
+E:\WebAPISariMiller\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.exe
+E:\WebAPISariMiller\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.deps.json
+E:\WebAPISariMiller\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.runtimeconfig.json
+E:\WebAPISariMiller\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.dll
+E:\WebAPISariMiller\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.pdb
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfo.cs
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.dll
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\refint\MyProject.ConsoleApp.dll
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.pdb
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.genruntimeconfig.cache
+E:\WebAPISariMiller\MyProject.ConsoleApp\obj\Debug\net6.0\ref\MyProject.ConsoleApp.dll

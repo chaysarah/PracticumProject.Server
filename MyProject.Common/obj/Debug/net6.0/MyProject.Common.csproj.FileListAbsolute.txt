@@ -1,0 +1,12 @@
+E:\WebAPISariMiller\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+E:\WebAPISariMiller\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+E:\WebAPISariMiller\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+E:\WebAPISariMiller\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
